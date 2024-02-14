@@ -1,3 +1,7 @@
+Privacy Policy  
+----------------
+
+### Introduction  
 1.1 Da dove arriva questo questionario?
 Siamo tre studenti al primo anno in Informatica per la comunicazione digitale all'Universita degli Studi di Milano. La verifica dell'apprendimento delle nozioni del corso ” Interazione Uomo Macchina " comprende la realizzazione di un progetto. Nel nostro caso si è scelto un software per la gestione di attività scolastiche ed extra scolastiche di una scuola di infanzia (registro elettronico).
 
